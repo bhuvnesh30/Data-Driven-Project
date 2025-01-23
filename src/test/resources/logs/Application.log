@@ -1,0 +1,7 @@
+DEBUG   2025-01-23 17:17:42,555 [main] devpinoyLogger  - Config file Loaded !!!
+DEBUG   2025-01-23 17:17:42,556 [main] devpinoyLogger  - OR file Loaded !!!
+DEBUG   2025-01-23 17:17:44,300 [main] devpinoyLogger  - Chrome Launched
+DEBUG   2025-01-23 17:17:44,709 [main] devpinoyLogger  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+DEBUG   2025-01-23 17:17:44,806 [main] devpinoyLogger  - Inside Login test
+DEBUG   2025-01-23 17:17:45,028 [main] devpinoyLogger  - Login succesful
+DEBUG   2025-01-23 17:17:45,855 [main] devpinoyLogger  - test Executed !!!
